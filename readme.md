@@ -1,10 +1,10 @@
 <style>
 body{
-	background-color: brown;
+	background-color: green;
 }
  </style>
 
-<a href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle 1 </a>
+<a href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle 1 </a><a href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle 2 </a>
 
 # Bienvenue sur mon Blog pour parler de La Guerre des Clans.
 
