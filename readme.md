@@ -1,3 +1,9 @@
+<style>
+body{
+	background-color: brown;
+}
+ </style>
+
 # Bienvenue sur mon Blog pour parler de La Guerre des Clans.
 
 --------
