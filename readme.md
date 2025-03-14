@@ -37,6 +37,9 @@ h1{
 a.cycle{
 	color:#e3ffd4;
 }
+a{
+	color:green;
+}
 a:hover{
 	color:white;
 	font-size:1.2em;
@@ -92,7 +95,7 @@ Quand j'étais au collège (moment où j'ai lu les livres pour la première fois
 C'est aussi lui qui m'a donné envie de combatre l'injustice ! Bon au final je l'ai jamais fait, mais j'en avais envie.<br>
 <div class="clear"></div><br>
 
-<img class="imgR" src="/LaGuerreDesClans/img/PluumeGrise.png">
+<img class="imgR" src="/LaGuerreDesClans/img/PlumeGrise.png">
 **Nuage gris** aka **Plume grise** :<br>
 Déjà c'est le premier à avoir accepté Nuage de feu malgré sa différence. Et comme moi je suis trop différente beh ça m'a trop touchée !<br>
 Je sais pas pourquoi dans ma tête je l'associe trop à Ron dans Harry Potter, je pense ça vient du caractère un peu beunet.<br>
