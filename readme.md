@@ -58,8 +58,8 @@ a:hover{
  </style>
 
 <div id="menu">
-	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle 1 </a>
-	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle 2 </a>
+	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle I </a>
+	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle II </a>
 </div>
 
 # Bienvenue sur mon Blog pour parler de La Guerre des Clans.
@@ -84,7 +84,7 @@ Enfin chaque clan à un chef. Le chef se voit accordé neufs vies par le Clan de
 <br>
 Ici on suit Rusty, un chat domestique qui va quitter sa vie douillette pour rejoindre le Clan du tonnerre.
 
-## Les chats que j'aime le plus;
+## Les chats que j'aime le plus
 <br>
 <div class="clear"></div>
 <img class="imgG" src="/LaGuerreDesClans/img/CoeurDeFeu.png">
