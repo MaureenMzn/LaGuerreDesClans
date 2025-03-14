@@ -82,11 +82,10 @@ Ici on suit Rusty, un chat domestique qui va quitter sa vie douillette pour rejo
 ## Les chats que j'aime le plus;
 <br>
 <div class="clear"></div>
-<div class="imgG">
+<img class="imgG" src="/LaGuerreDesClans/img/CoeurDeFeu.png">
 
-	![](img/CoeurDeFeu.png)
+![](img/CoeurDeFeu.png)
 
-</div>
 
 **Rusty** aka **Nuage de feu** aka **Coeur de feu** aka **Etoile de feu** : <br>
 Prévisible me direz vous. Mais en même temps c'est le sang (enfin du coup non, vu que le sang du clan ne coule pas dans ses veines mais vous avez compris).<br>
