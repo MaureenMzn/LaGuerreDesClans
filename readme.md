@@ -84,7 +84,8 @@ Ici on suit Rusty, un chat domestique qui va quitter sa vie douillette pour rejo
 <div class="clear"></div>
 <div class="imgG">
 
-![](img/CoeurDeFeu.png)
+	![](img/CoeurDeFeu.png)
+
 </div>
 
 **Rusty** aka **Nuage de feu** aka **Coeur de feu** aka **Etoile de feu** : <br>
