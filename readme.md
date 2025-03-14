@@ -5,8 +5,8 @@ body{
 }
 p{
 	color:black;
-	padding-left:15px;
-	padding-right:15px;
+	margin-left:15px;
+	margin-right:15px;
 }
 h1{
 	color:#255708;
