@@ -64,4 +64,4 @@ Le gars s'en prend à tout mes perso préféré, bon sauf Nuage de jais, je l'ad
 Il fait du mal à Etoile bleue alors qu'elle à déjà tellement souffert (se référer à la Prophétie d'Etoile bleue), et c'est à cause de lui que Museau Cendré à la patte bousillée.<br>
 Bon on peut au moins lui accorder que grâce à lui Coeur de feu devient méga stylé.
 Je sais plus si c'est à cause de lui que Petite feuille meurt, mais bon en vrai elle est un peu osef donc tranquille.<br>
-<br>
+<br> 
