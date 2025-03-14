@@ -1,7 +1,7 @@
 <style>
 body{
 	background-color: yellow;
-	padding: 10px 20px 10px 20px;
+	padding: 30px 20px 10px 20px;
 }
 p{
 	color:blue;
