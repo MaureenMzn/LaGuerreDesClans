@@ -1,10 +1,12 @@
 <style>
 body{
 	background-color: #d5ffbc;
-	padding: 30px 20px 10px 20px;
+	padding: 30px 5px 10px 5px;
 }
 p{
 	color:black;
+	padding-left:15px;
+	padding-right:15px;
 }
 h1{
 	color:#255708;
@@ -47,12 +49,10 @@ a:hover{
 }
 .imgG{
 	float:left;
-	padding-right:15px;
 	background-color: #d5ffbc;
 }
 .imgR{
 	float:right;
-	padding-left:15px;
 	background-color: #d5ffbc;
 }
  </style>
@@ -109,7 +109,7 @@ Ca me rend trop triste qu'elle puisse pas devenir guerrière, mais sa relation a
 Elle est gentille et sait trouver les mots, donc je l'aime voilà.<br>
 <div class="clear"></div><br>
 
-<img class="imgD" src="/LaGuerreDesClans/img/CrocJaune.png">
+<img class="imgR" src="/LaGuerreDesClans/img/CrocJaune.png">
 **Croc Jaune** :<br>
 Bon du coup sans suprise vu que je l'ai déjà dit. C'est marrant parce que la première fois que je l'ai lu à ce moment là des livres (début du tome III du cyle I) j'étais plus attachée à Etoile bleue qu'à Croc Jaune, mais aujourd'hui je suis plus attachée à l'ancienne guerrisseuse du Clan de l'Ombre.<br>
 J'aime bien son côté aigrie, je crois que je m'identifie beaucoup plus à elle maintenant que la vie m'a rendu amer également. Après tout aujourd'hui je suis une vieille chatte, alors qu'à l'époque j'étais encore une apprentie pleine d'entrain !<br>
@@ -123,7 +123,7 @@ En soit dans la série principale elle est bien mais on voit clairement pas son 
 Je pense que c'est mon personnage préféré grace à ce hors série, j'ai plus pleuré en lisant ce livre que pour la mort de ma grand-mère, c'est dire (pour ma défense je lis lentement, donc forcément ça m'a fait chialer sur le long terme).<br>
 <div class="clear"></div><br>
 
-<img class="imgD" src="/LaGuerreDesClans/img/EtoileFilante.png">
+<img class="imgR" src="/LaGuerreDesClans/img/EtoileFilante.png">
 **Etoile fliante** :<br>
 Premier chat qui n'est pas du Clan du tonnerre ! J'ai pas trop d'argument du coup, juste je trouve que c'est un bon chef de clan, voilà.<br>
 <div class="clear"></div><br>
