@@ -14,20 +14,22 @@ h1{
 	background-color: #255708;
 	width:100%;
 	height:50px;
-	border:2px solid black;
+	border:2px solid white;
 	list-style-type:none;
 	position : fixed;
 	top:0;
     left:0;
 	z-index:1;
 	text-align:center;
-	padding-top : 10px;
-	vertical-align: middle;
+	display: flex;;
 }
 .cycle{
 	width:50%;
 	text-align:center;
-	margin : 10%;
+	padding:13px 12% 13px 12%;
+	border: 2px solid black;
+	display: box;
+	align-self: center;
 }
 a{
 	color:green;
