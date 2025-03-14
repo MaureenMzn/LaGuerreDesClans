@@ -1,17 +1,42 @@
 <style>
 body{
 	background-color: yellow;
+	padding: 10px 20px 10px 20px;
 }
 p{
 	color:blue;
 }
 h1{
 	color:red;
-	text-align : center;
+	text-align :center;
+}
+#menu{
+	background-color: red;
+	width:100%;
+	height:45px;
+	border:2px solid black;
+	list-style-type:none;
+	position : fixed;
+	top:0;
+    left:0;
+	z-index:1;
+	text-align:center;
+	padding-top : 20px;
+}
+.cycle{
+	width:50%;
+	text-align:center;
+	margin : 10%;
+}
+a:hover{
+	color:red;
 }
  </style>
 
-<a href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle 1 </a> - <a href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle 2 </a>
+<div id="menu">
+	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle1/react.html"> Cycle 1 </a>
+	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle 2 </a>
+</div>
 
 # Bienvenue sur mon Blog pour parler de La Guerre des Clans.
 
