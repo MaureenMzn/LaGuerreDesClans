@@ -51,4 +51,17 @@ Premier chat qui n'est pas du Clan du tonnerre ! J'ai pas trop d'argument du cou
 **Nuage de sable** aka **Tempête de sable** :<br>
 Il me semble que je l'aimais trop quand j'étais petite, mais en vrai pour l'instant je la juge un peu. La meuf est clairement raciste, et elle arrête de l'être qu'à partir du moment où Coeur de feu lui sauve la vie.<br>
 Abusé un peu en vrai. Mais il me semble qu'elle devient vraiment cool par la suite, d'où sa présence dans cette liste.<br>
-<br> 
+<br>
+
+## Les chats que j'aime PAS
+
+![](img/GriffeDeTigre.png)<br>
+**Griffe de tigre** aka **Etoile du tigre** :<br>
+Encore une fois on commence avec de la basic sheet, mais je l'aime vraiment paaaaas. Comme tout le monde je pense (j'espère).<br>
+Je pense que pour aimer Griffe de tigre il faut au minimum être un nazi. Voilà c'est dit !<br>
+Bon par contre à sa descrption physique il à l'air grave beau, ce qui est encore plus énervant.<br>
+Le gars s'en prend à tout mes perso préféré, bon sauf Nuage de jais, je l'adore hein, mais il y a pas a être autant une victime.<br>
+Il fait du mal à Etoile bleue alors qu'elle à déjà tellement souffert (se référer à la Prophétie d'Etoile bleue), et c'est à cause de lui que Museau Cendré à la patte bousillée.<br>
+Bon on peut au moins lui accorder que grâce à lui Coeur de feu devient méga stylé.
+Je sais plus si c'est à cause de lui que Petite feuille meurt, mais bon en vrai elle est un peu osef donc tranquille.<br>
+<br>
