@@ -1,17 +1,17 @@
 <style>
 body{
-	background-color: yellow;
+	background-color: #d5ffbc;
 	padding: 30px 20px 10px 20px;
 }
 p{
-	color:blue;
+	color:black;
 }
 h1{
-	color:red;
+	color:#255708;
 	text-align :center;
 }
 #menu{
-	background-color: red;
+	background-color: #255708;
 	width:100%;
 	height:50px;
 	border:2px solid black;
@@ -29,7 +29,9 @@ h1{
 	margin : 10%;
 }
 a:hover{
-	color:red;
+	color:white;
+	font-size:20px;
+	font-weight: bold;
 }
  </style>
 
