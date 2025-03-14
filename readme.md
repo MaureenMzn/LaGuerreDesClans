@@ -13,7 +13,7 @@ h1{
 #menu{
 	background-color: red;
 	width:100%;
-	height:45px;
+	height:50px;
 	border:2px solid black;
 	list-style-type:none;
 	position : fixed;
@@ -21,7 +21,7 @@ h1{
     left:0;
 	z-index:1;
 	text-align:center;
-	padding-top : 20px;
+	padding-top : 10px;
 }
 .cycle{
 	width:50%;
