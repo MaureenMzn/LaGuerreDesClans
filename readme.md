@@ -22,15 +22,19 @@ h1{
 	z-index:1;
 	text-align:center;
 	padding-top : 10px;
+	vertical-align: middle;
 }
 .cycle{
 	width:50%;
 	text-align:center;
 	margin : 10%;
 }
+a{
+	color:green;
+}
 a:hover{
 	color:white;
-	font-size:20px;
+	font-size:1.2em;
 	font-weight: bold;
 }
  </style>
