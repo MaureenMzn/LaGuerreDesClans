@@ -10,7 +10,7 @@ Je les aient lus dans mes jeunes années jusqu'au cycle III, mais aujourd'hui je
 Pour l'instant j'en suis au tome III du cycle I. <br>
 Ce blog est donc fait pour vous offrir mes réactions en direct, quelle chance vous avez !<br>
 <br>
-Ce blog sera organisé par cycle, ici vous trouverez des informations générales. Bonne lecture !<br>
+<p style="color:blue;">Ce blog sera organisé par cycle, ici vous trouverez des informations générales. Bonne lecture !<br>
 
 ### Petite intro à l'univers
 Qautres clans de chats sauvages vivent dans la fôret. Le Clan du tonnerre (celui qu'on suit dans le récit), le Clan de l'ombre qui sont globalement les méchants qui vivent dans une forêt sooombre, le Clan du vent qui vit sur les plateaux et bouffent que des lapins et le Clan de la rivière, des chats qui aiment l'eau et mange du poisson.<br>

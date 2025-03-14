@@ -3,7 +3,7 @@
 ------
 
 ## Tome I & II
-<p style="color:blue;">Oui malheureusement pour vous je ne commence ce blog que maintenant, au commencement du tome III.<br>
+Oui malheureusement pour vous je ne commence ce blog que maintenant, au commencement du tome III.<br>
 Je vais cependant essayer de vous résumer les différentes impressions que j'ai eu lors de la lecture de ces deux livres.<br>
 <br>
 Déjà je trouve que le commencement est pas très cohérent. Genre quand Nuage de feu arrive dans le clan, il y a 4 apprentis d'environ son age mais aucun n'est frère ou soeur ?? Je suis pas une experte mais il me semble quand même qu'il devrait y en avoir quelques uns. Ca s'observe d'ailleurs par la suite, quasiment tous ont des portés de plusieurs chatons et au moins quelques un survivent.<br>
