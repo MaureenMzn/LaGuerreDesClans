@@ -82,7 +82,9 @@ Ici on suit Rusty, un chat domestique qui va quitter sa vie douillette pour rejo
 ## Les chats que j'aime le plus;
 <br>
 <div class="clear"></div>
-<img class="imgG" src="blob/main/img/CoeudDeFeu.png">
+<div class="imgG">
+
+![](img/CoeurDeFeu.png)</div>
 **Rusty** aka **Nuage de feu** aka **Coeur de feu** aka **Etoile de feu** : <br>
 Prévisible me direz vous. Mais en même temps c'est le sang (enfin du coup non, vu que le sang du clan ne coule pas dans ses veines mais vous avez compris).<br>
 J'ai beau être une gonzesse je m'identifie trop à lui ! Bon je suis pas rousse, mais je devrais peut-être me faire une couleur pour lui ressembler...<br>
@@ -136,8 +138,8 @@ Abusé un peu en vrai. Mais il me semble qu'elle devient vraiment cool par la su
 <div class="clear"></div><br>
 
 ## Les chats que j'aime PAS
-<br>
-<img class="imgG">:
+<div class="clear"></div><br>
+<div class="imgG">
 
 ![](img/GriffeDeTigre.png)</div>
 **Griffe de tigre** aka **Etoile du tigre** :<br>
