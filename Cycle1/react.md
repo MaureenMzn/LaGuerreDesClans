@@ -3,7 +3,7 @@
 ------
 
 ## Tome I & II
-Oui malheureusement pour vous je ne commence ce blog que maintenant, au commencement du tome III.<br>
+<p style="color:blue;">Oui malheureusement pour vous je ne commence ce blog que maintenant, au commencement du tome III.<br>
 Je vais cependant essayer de vous résumer les différentes impressions que j'ai eu lors de la lecture de ces deux livres.<br>
 <br>
 Déjà je trouve que le commencement est pas très cohérent. Genre quand Nuage de feu arrive dans le clan, il y a 4 apprentis d'environ son age mais aucun n'est frère ou soeur ?? Je suis pas une experte mais il me semble quand même qu'il devrait y en avoir quelques uns. Ca s'observe d'ailleurs par la suite, quasiment tous ont des portés de plusieurs chatons et au moins quelques un survivent.<br>
@@ -16,3 +16,4 @@ J'aime toujours autant l'arc où Plume grise et Coeur de feu ramène le Clan du 
 ## Tome III
 Petit nuage m'énervait au début parce qu'il se croit trop chez lui et qu'il écoute R. Mais il commence à devenir attachant. Je me rappelle plus dutout si ça devient un perso cool après, mais j'espère.<br>
 Mes cours ont repris donc j'ai du arrêter ma lecture, mais je suis resté sur un suspens horrible ! Coeur de feu est Plume grise sont allé au rocher du soleil qui sont acctuellement innondé pour essayer de trouver Rivière d'argent et prendre de ses nouvelles. Seulement ils ont entendu des chatons qui étaient sur un radeau de mousse dans la rivière en crue. Coeur de feu est allé dans l'eau pour essayé de les sauver, mais là ou je me suis arrétée Coeur de feu galère dans l'eau et le radeau c'est dissloqué. Un des chatons est tombé à l'eau ! J'ai vraiment hâte de continuer ma lecture.<br>
+Sinon, Coeur de feu à évoqué le sujet des chatons du Clan du tonnerre disparu et élevé par le Clan de la rivière. Je me rappelle que ce sont les petits d'Etoile bleue et c'est pour ça qu'elle s'énerve quand Coeur de feu lui en parle. Je m'en rappelle quand même pas très bien, affaire à suivre donc.<br>
