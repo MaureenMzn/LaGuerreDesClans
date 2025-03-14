@@ -1,12 +1,10 @@
 <style>
 body{
 	background-color: #d5ffbc;
-	padding: 30px 5px 10px 5px;
+	padding: 30px 20px 10px 20px;
 }
 p{
 	color:black;
-	margin-left:15px;
-	margin-right:15px;
 }
 h1{
 	color:#255708;
@@ -49,10 +47,12 @@ a:hover{
 }
 .imgG{
 	float:left;
+	margin-right:15px;
 	background-color: #d5ffbc;
 }
 .imgR{
 	float:right;
+	margin-left:15px;
 	background-color: #d5ffbc;
 }
  </style>
