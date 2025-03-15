@@ -14,7 +14,7 @@ h1{
 	clear:both;
 }
 hr{
-	color:green;
+	border-top: 3px double green;
 }
 #menu{
 	background-color: #255708;
