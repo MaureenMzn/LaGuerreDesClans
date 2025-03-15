@@ -67,7 +67,7 @@ a:hover{
 
 # Bienvenue sur mon Blog pour parler de La Guerre des Clans.
 
-</hr>
+<hr/>
 
 C'est un super roman écrit par le collectif d'auteur *Erin Hunter*. <br>
 Et ça parle de **Chat** ! <br>
