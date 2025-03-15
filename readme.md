@@ -14,7 +14,7 @@ h1{
 	clear:both;
 }
 hr{
-        color : green;
+	color:green;
 }
 #menu{
 	background-color: #255708;
@@ -65,12 +65,12 @@ a:hover{
 	<a class="cycle" href="https://maureenmzn.github.io/LaGuerreDesClans/Cycle2/react.html"> Cycle II </a>
 </div>
 
-# Bienvenue sur mon Blog pour parler de La Guerre des Clans.
+<h1> Bienvenue sur mon Blog pour parler de La Guerre des Clans.</h1>
 
 <hr/>
 
 C'est un super roman écrit par le collectif d'auteur *Erin Hunter*. <br>
-Et ça parle de **Chat** ! <br>
+Et ça parle de <b>Chat</b> ! <br>
 Enfin un roman c'est peu dire, il y a 5 cycles de 6 tomes chacuns, ainsi que plusieurs hors séries. <br>
 <br>
 Je les aient lus dans mes jeunes années jusqu'au cycle III, mais aujourd'hui je les relis ! <br>
@@ -79,7 +79,7 @@ Ce blog est donc fait pour vous offrir mes réactions en direct, quelle chance v
 
 Ce blog sera organisé par cycle, ici vous trouverez des informations générales. Bonne lecture !<br>
 
-### Petite intro à l'univers
+<h3> Petite intro à l'univers </h3>
 Qautres clans de chats sauvages vivent dans la fôret. Le Clan du tonnerre (celui qu'on suit dans le récit), le Clan de l'ombre qui sont globalement les méchants qui vivent dans une forêt sooombre, le Clan du vent qui vit sur les plateaux et bouffent que des lapins et le Clan de la rivière, des chats qui aiment l'eau et mange du poisson.<br>
 Chaque mois, à la pleine lune, les quatres clans se réunissent pour une assemblée. C'est une sorte de très durant laquelle les clans font un point sur leurs situtations. Leur point de réunion se nomme les quatres chênes, et comme son nom l'indique, il s'agit de quatres grands chênes se trouvant à la frontière des quatres territoires.<br>
 Les clans ont une organisation bien précise ! Les chatons de moins de six mois restent dans la pouponière avec les reines (les daronnes). Les vieux, aussi appelé ancien, ont également une tanière dédiée, globalement ils sont à la retraite, le clan prend soin d'eux. Chaque clan à également un guérisseur qui s'occupe des bléssés et à également sa propre tanière. Passé six mois les jeunes commencent leurs entrainement, ils deviennent alors des apprentis et partent de la pouponière. Une fois leur apprentissage terminé ils rejoignent la tannière des guerriers. Leur nom changent à chaque fois que leur statut change aussi, sauf quand ils partent à la retraite, la osef.<br>
@@ -87,7 +87,7 @@ Enfin chaque clan à un chef. Le chef se voit accordé neufs vies par le Clan de
 <br>
 Ici on suit Rusty, un chat domestique qui va quitter sa vie douillette pour rejoindre le Clan du tonnerre.
 
-## Les chats que j'aime le plus
+<h2> Les chats que j'aime le plus</h2>
 <br>
 <div class="clear"></div>
 **Rusty** aka **Nuage de feu** aka **Coeur de feu** aka **Etoile de feu** : <img class="imgG" src="/LaGuerreDesClans/img/CoeurDeFeu.png"><br>
@@ -130,7 +130,7 @@ Il me semble que je l'aimais trop quand j'étais petite, mais en vrai pour l'ins
 Abusé un peu en vrai. Mais il me semble qu'elle devient vraiment cool par la suite, d'où sa présence dans cette liste.<br>
 <div class="clear"></div><br>
 
-## Les chats que j'aime PAS
+<h2> Les chats que j'aime PAS </h2>
 <div class="clear"></div><br>
 **Griffe de tigre** aka **Etoile du tigre** :<img class="imgG" src="/LaGuerreDesClans/img/GriffeDeTigre.png"><br>
 Encore une fois on commence avec de la basic sheet, mais je l'aime vraiment paaaaas. Comme tout le monde je pense (j'espère).<br>
