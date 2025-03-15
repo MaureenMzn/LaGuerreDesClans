@@ -78,5 +78,6 @@ Pour revenir au chat préféré des nazis, il a mis en place plusieurs patrouill
 Griffe de tigre à tenté de tuer Etoile bleue mais Coeur de feu l'a marav avant, ce gros nullos là.<br>
 Ca c'est bien fini mais Etoile bleue est en PLS, on arrive donc dans l'arc Etoile bleue serpillère qui me tend au plus haut point, j'ai pas hâte de relire ça.<br>
 Mais Coeur de feu est maintenant lieutenant ! Etoile de feu in comming.<br>
+Avant de montrer son vrai visage Griffe de tigre à essayé de tuer Coeur de feu en le faisant tomber dans la rivière. Contre toute attente c'est Longue plume qui l'a sauvé, j'était chok barre de baisé. Pour ceux qui savent pas Longue plume c'est un des racistes bandeurs de Griffe de tigre.<br>
 
 ## Tome IV
