@@ -70,6 +70,7 @@ a:hover{
 <hr/>
 
 C'est un super roman écrit par le collectif d'auteur *Erin Hunter*. <br>
+<hr/>
 Et ça parle de <b>Chat</b> ! <br>
 Enfin un roman c'est peu dire, il y a 5 cycles de 6 tomes chacuns, ainsi que plusieurs hors séries. <br>
 <br>
