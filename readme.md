@@ -13,6 +13,9 @@ h1{
 .clear{
 	clear:both;
 }
+hr{
+        color : green;
+}
 #menu{
 	background-color: #255708;
 	width:100%;
