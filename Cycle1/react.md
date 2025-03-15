@@ -68,3 +68,15 @@ J'aime toujours autant l'arc où Plume grise et Coeur de feu ramène le Clan du 
 Petit nuage m'énervait au début parce qu'il se croit trop chez lui et qu'il écoute R. Mais il commence à devenir attachant. Je me rappelle plus dutout si ça devient un perso cool après, mais j'espère.<br>
 Mes cours ont repris donc j'ai du arrêter ma lecture, mais je suis resté sur un suspens horrible ! Coeur de feu est Plume grise sont allé au rocher du soleil qui sont acctuellement innondé pour essayer de trouver Rivière d'argent et prendre de ses nouvelles. Seulement ils ont entendu des chatons qui étaient sur un radeau de mousse dans la rivière en crue. Coeur de feu est allé dans l'eau pour essayé de les sauver, mais là ou je me suis arrétée Coeur de feu galère dans l'eau et le radeau c'est dissloqué. Un des chatons est tombé à l'eau ! J'ai vraiment hâte de continuer ma lecture.<br>
 Sinon, Coeur de feu à évoqué le sujet des chatons du Clan du tonnerre disparu et élevé par le Clan de la rivière. Je me rappelle que ce sont les petits d'Etoile bleue et c'est pour ça qu'elle s'énerve quand Coeur de feu lui en parle. Je m'en rappelle quand même pas très bien, affaire à suivre donc.<br>
+<br>
+Ils ont réussi à sauver les chatons, c'était ceux de Patte de brume !<br>
+Bon par contre la fin du Tome III est riche en émotion, on apprend que Rivière d'argent est enceinte, mais elle meurt en accouchant sur le territoire du Clan du tonnerre. Nuage cendré arrive à sauver les petits mais pas la mère. Je m'en rappelais évidemment, mais j'ai quand même eu les larmes aux yeux.<br>
+Plume grise quitte donc le Clan du tonnerre pour rejoindre le Clan de la rivière avec ses petits, ça me rend trop triste à chaque fois. D'autant plus que je me rappelle plus dutout ce que deviennent Plume grise et ses enfants par la suite, au moins ça me motive trop à continuer pour pouvoir me rappeler !<br>
+Nuage cendré est enfin devenue l'apprentie officielle de Croc jaune ! Elle était mal d'avoir perdue Rivière d'argent mais elle s'en est vite remis.<br>
+Griffe de tigre à révélé au grand jour son plan machavélique le salaud. C'est Nuage de neige qui l'a repéré entrain de comploter avec des chats érants. Et oui ! Le neveu de Coeur de feu est devenu son apprenti, il est beaucoup plus sage depuis qu'il à acquis ce status, ça me donne de l'espoir pour la suite.<br>
+Pour revenir au chat préféré des nazis, il a mis en place plusieurs patrouilles en dehors du camps pour pouvoir attaquer tranquillement, Coeur de feu est arrivé juste après eux pour défendre le camps.
+Griffe de tigre à tenté de tuer Etoile bleue mais Coeur de feu l'a marav avant, ce gros nullos là.<br>
+Ca c'est bien fini mais Etoile bleue est en PLS, on arrive donc dans l'arc Etoile bleue serpillère qui me tend au plus haut point, j'ai pas hâte de relire ça.<br>
+Mais Coeur de feu est maintenant lieutenant ! Etoile de feu in comming.<br>
+
+## Tome IV
