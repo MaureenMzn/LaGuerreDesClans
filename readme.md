@@ -9,3 +9,5 @@ Cependant j'ai fini par tout de même passer mes pages web directement en .html 
 
 Ce blog parle de La guerre des clans, un livre que je lisais au collège et que je prend plaisir à relire aujourd'hui du haut de mes 25 ans.
 Le sujet n'est pas tant le plus important, bien que j'y prend beaucoup de plaisir. Le but est plus de m'habituer à utiliser régulièrement Github ainsi qu'à maintenir au maximum mon niveau en HTML et CSS.
+
+Pour information, ce site n'est absolument pas rédigé de façon professionnel et son contenu n'est créé qu'à un but récréatif et personnel. En vous remerciant de votre compréhension.
