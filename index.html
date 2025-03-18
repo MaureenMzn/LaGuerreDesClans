@@ -68,13 +68,23 @@ hr{
 	margin-left : 15%;
 	margin-right : 15%;
 }
+.video {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px 2em;
+  border:2px solid white;
+}
+
+.video :first-child {
+  align-self: center;
+}
 .cycle{
 	text-align:center;
 	padding-left:8%;
 	padding-right:8%;
 	align-self: center;
 	font-family:Georgia, serif;
-	font-size:1.1em;*
+	font-size:1.1em;
 }
 a.cycle{
 	color:#e3ffd4;
@@ -102,6 +112,7 @@ a:hover{
 .padding{
 	padding: 0% 3% 0% 3%;
 }
+
 </style>
 
 <body>
@@ -217,12 +228,16 @@ a:hover{
 	</div>
 	<h2>Super vidéos Youtubes</h2>
 	<hr/>
-	<div class="padding">
-		<div class="titre">
-			<b>Plume grise</b> et <b>Rivière d'argent</b> :<a href="https://www.youtube.com/watch?v=YzhzzZGtVl4&ab_channel=LeStudiod%E2%80%99Alissia"><img class="imgG" src=""></a>
+	<div class="video">
+		<div>
+			<div class="titre">
+				<b>Plume grise</b> et <b>Rivière d'argent</b> : <br><a href="https://www.youtube.com/watch?v=YzhzzZGtVl4&ab_channel=LeStudiod%E2%80%99Alissia"><img src=""></a>
+			</div>
 		</div>
-		<div class="titre">
-			La prophétie d'<b>Etoile bleue</b> :<a href="https://www.youtube.com/watch?v=S60zKT-M54o&ab_channel=AlliKat"><img class="imgD" src=""></a>
+		<div>
+			<div class="titre">
+				La prophétie d'<b>Etoile bleue</b> :<br><a href="https://www.youtube.com/watch?v=S60zKT-M54o&ab_channel=AlliKat"><img src=""></a>
+			</div>
 		</div>
 	</div>
 	
